@@ -15,3 +15,5 @@ This project is a solution to the current shortage of beds and resources due to 
 
 
 Video Description : https://youtu.be/szYZLbUVa2Q
+
+## Author/s: [MitanshGor](https://github.com/MitanshGor), [rajmadhu0406](https://github.com/rajmadhu0406), [Yash-Chandrani](https://github.com/Yash-Chandrani)
